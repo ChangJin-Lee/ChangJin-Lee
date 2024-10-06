@@ -1,4 +1,5 @@
-## Hi, It's ChangJin
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Chang%20Jin&fontAlign=75&fontAlignY=40&color=0:00BFFF,100:1E90FF)
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChangJin-Lee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
