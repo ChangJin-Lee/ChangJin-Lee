@@ -7,6 +7,14 @@ I'm currently working with Unreal Engine 5.
 <div align="center"><h3>📚 Stacks</h3></div>
 <div align="center">
 
+<div align="center"><h3>💖 Game Art</h3></div>
+  
+<img src="https://img.shields.io/badge/blender-E87D0D?style=plastic&logo=blender&logoColor=white"/></a>
+
+<img src="https://github.com/user-attachments/assets/01f4fdac-a7ed-48a3-806c-56a8a8598237" alt="이미지 1" width="340"/>
+<img src="https://github.com/user-attachments/assets/c122da52-cad3-4526-af5a-a300d4377deb" alt="이미지 1" width="340"/>
+
+
 <!-- <div align="center"><h3>🍎 iOS</h3></div> -->
 
 <!-- <img src="https://img.shields.io/badge/-iOS-%23000000?style=plastic&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/swift-E34F26?style=plastic&logo=swift&logoColor=white">
@@ -30,8 +38,13 @@ I'm currently working with Unreal Engine 5.
 <img src="https://img.shields.io/badge/csharp-00599C?style=plastic&logo=c%2B%2B&logoColor=white">
 <!-- <img src="https://img.shields.io/badge/blender-F5792A?style=plastic&logo=blender&logoColor=white"/></a>  -->
 
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChangJin-Lee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+
+<img src="https://github.com/user-attachments/assets/64592e06-b7dd-4cce-90d5-822a9ccf50d1" alt="이미지 2" width="340"/>
+<img src="https://github.com/user-attachments/assets/df635d35-3dc7-4e1f-aa4a-928562458fb4" alt="이미지 3" width="340"/>
+
+  
+
 
 <!---
 ### Stats
