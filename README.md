@@ -8,6 +8,24 @@ I'm currently working with Unreal Engine 5 as a client developer.
 I'm also learning 3D modeling and concept art.
 
 <div align="center"><h3>📚 Stacks</h3></div>
+
+<div align=center> 
+
+<div align="center"><h3>🎮 Game Dev</h3></div>
+
+<img src="https://img.shields.io/badge/UnrealEngine-313131?style=plastic&logo=UnrealEngine&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Unity-313131?style=plastic&logo=Unity&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/c++-00599C?style=plastic&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/csharp-00599C?style=plastic&logo=c%2B%2B&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/blender-F5792A?style=plastic&logo=blender&logoColor=white"/></a>  -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChangJin-Lee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   -->
+
+<img src="https://github.com/user-attachments/assets/64592e06-b7dd-4cce-90d5-822a9ccf50d1" alt="이미지 2" width="340"/>
+<img src="https://github.com/user-attachments/assets/df635d35-3dc7-4e1f-aa4a-928562458fb4" alt="이미지 3" width="340"/>
+
+</div>
+
 <div align="center">
 
 <div align="center"><h3>💖 Game Art</h3></div>
@@ -28,23 +46,6 @@ I'm also learning 3D modeling and concept art.
 
 <!-- <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=plastic&logo=Amazon AWS&logoColor=white"/></a> <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white"> -->
 </br>
-
-<div align=center> 
-
-</div>
-
-<div align="center"><h3>🎮 Game Dev</h3></div>
-
-<img src="https://img.shields.io/badge/UnrealEngine-313131?style=plastic&logo=UnrealEngine&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Unity-313131?style=plastic&logo=Unity&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/c++-00599C?style=plastic&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/csharp-00599C?style=plastic&logo=c%2B%2B&logoColor=white">
-<!-- <img src="https://img.shields.io/badge/blender-F5792A?style=plastic&logo=blender&logoColor=white"/></a>  -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChangJin-Lee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-
-<img src="https://github.com/user-attachments/assets/64592e06-b7dd-4cce-90d5-822a9ccf50d1" alt="이미지 2" width="340"/>
-<img src="https://github.com/user-attachments/assets/df635d35-3dc7-4e1f-aa4a-928562458fb4" alt="이미지 3" width="340"/>
 
   
 
