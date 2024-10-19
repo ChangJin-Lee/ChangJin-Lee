@@ -3,7 +3,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChangJin-Lee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-I'm currently working with Unreal Engine 5 as a client developer.
+I'm currently working with Unreal Engine 5 as a Client Programmer.
 </div>
 I'm also learning 3D modeling and concept art.
 
